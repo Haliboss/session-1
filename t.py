@@ -16,11 +16,11 @@ topla(1, 5)
 
 
 def çarpma(a, b = 1):
-   print(a * b)
+  print(a * b)
 
 çarpma(5, 6)
 
 def çarpma(a, b = 1):
-   print(a * b)
+  print(a * b)
 
 çarpma(5)   
