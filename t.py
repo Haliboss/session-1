@@ -4,11 +4,6 @@ def selam() :
 selam()  
 
 
-def topla():
-  print(a + b)
-
-topla(1, 5)
-
 def topla(a, b):
   print(a + b)
   
